@@ -1,6 +1,6 @@
-# Running-Apps-With-Docker
+# Running Apps With Docker
 I am practicing the various Docker uses, one of them being that I can run applications of different languages and extensions 
-with Docker. I am trying that here.
+with Docker.
 
 How This Application Works:
   - Run the Python server and the route /html will take you to a page that renders some raw HTML
