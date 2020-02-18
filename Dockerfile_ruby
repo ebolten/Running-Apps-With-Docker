@@ -1,0 +1,4 @@
+# start by building the basic container
+FROM ruby:2.5
+ADD hello_ruby.rb /
+CMD [ "ruby", "./hello_ruby.rb" ]
